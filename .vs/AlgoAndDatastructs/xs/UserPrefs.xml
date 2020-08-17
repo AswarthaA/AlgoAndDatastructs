@@ -1,15 +1,18 @@
 ﻿<Properties StartupConfiguration="{FA07B59C-9758-420A-93AE-4C7E536DAE6E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AlgoAndDatastructs/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AlgoAndDatastructs/.gitignore">
     <Files>
       <File FileName="AlgoAndDatastructs/Program.cs" Line="10" Column="9" />
+      <File FileName="AlgoAndDatastructs/.gitignore" Line="225" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AlgoAndDatastructs" expanded="True">
             <Node name="AlgoAndDatastructs" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="Program.cs" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name=".gitignore" selected="True" />
             </Node>
           </Node>
         </State>
